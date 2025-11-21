@@ -23,7 +23,7 @@ El archivo AppConfig.java contiene la implementacion de una clase de configuraci
 
 La clase en HelloWorld.java representa la implementacion de un Bean, y define un metodo que imprime ¡Hola Mundo! en la consola
 
-La clase App.java contiene el metodo main de la aplicacion, esta instancia el Spring application context y retorna un bean que se utiliza para imprimir ¡Hola Mundo! en la consola.
+La clase App.java contiene el metodo main de la aplicacion, esta instancia el Spring application context (utilizando la clase AppConfig) y retorna un bean que se utiliza para imprimir ¡Hola Mundo! en la consola.
 
 ---
 ## Instrucciones de Uso
