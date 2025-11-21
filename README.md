@@ -1,6 +1,6 @@
 # Hola Mundo con Spring Framework.
 
-En este proyecto representa un primer acercamiento a Spring Framework, implementando el clasico ¡Hola Mundo!, en este proyecto se utilizo Java como lenguaje de programacion.
+Este proyecto representa un primer acercamiento a Spring Framework, implementando el clasico ¡Hola Mundo!, en este proyecto se utilizo Java como lenguaje de programacion.
 
 ---
 ## Descripcion
